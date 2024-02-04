@@ -1,5 +1,7 @@
 =================================================
+
 [advanced method]
+
 To complile it yourself do the following:
 
 This program is written in C++ so if you want to save it as an application you must use something like g++ to compile
@@ -16,7 +18,9 @@ PassingUnderPetroleumCPP.exe
 Also this .exe file can be found in the folder that we just compiled in, so you can double click like any other program
 
 ==============================================
+
 [Easy method]
+
 You can also download the exe file that I have here on GitHub. Its self signed, so run it at your own risk.
 
 To run the exe you will need to do the following:
