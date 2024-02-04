@@ -1,4 +1,4 @@
-====================================================================================================================
+=================================================
 [advanced method]
 To complile it yourself do the following:
 
@@ -15,7 +15,7 @@ PassingUnderPetroleumCPP.exe
 
 Also this .exe file can be found in the folder that we just compiled in, so you can double click like any other program
 
-===========================================================================================================
+==============================================
 [Easy method]
 You can also download the exe file that I have here on GitHub. Its self signed, so run it at your own risk.
 
